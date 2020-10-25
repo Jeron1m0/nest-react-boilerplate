@@ -1,9 +1,9 @@
 {
   "name": "Nest backend boilerplate",
-  "private": true,
+  "author": "Ruben Morgade <rmorgade@jeron1m0.com",
   "version": "1.0.0",
   "description": "Nest TypeScript starter repository as template for bigger projects",
-  "license": "MIT",
+  "license": "MPL 2.0",
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "nest build",
